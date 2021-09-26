@@ -1,2 +1,2 @@
 # advent
-advent of code template repository
+advent of code 2015 solutions
